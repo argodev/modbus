@@ -7,7 +7,7 @@ package test
 import (
 	"testing"
 
-	"actshad.dev/modbus"
+	"github.com/argodev/modbus"
 )
 
 func ClientTestReadCoils(t *testing.T, client modbus.Client) {

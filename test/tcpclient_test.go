@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"actshad.dev/modbus"
+	"github.com/argodev/modbus"
 )
 
 const (

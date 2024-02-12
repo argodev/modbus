@@ -1,4 +1,4 @@
-module actshad.dev/modbus
+module github.com/argodev/modbus
 
 go 1.14
 

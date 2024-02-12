@@ -9,7 +9,7 @@ import (
 	"os"
 	"testing"
 
-	"actshad.dev/modbus"
+	"github.com/argodev/modbus"
 )
 
 const (
